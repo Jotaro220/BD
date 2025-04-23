@@ -1,0 +1,80 @@
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.Form1.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\BD.exe
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\BD.deps.json
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\BD.runtimeconfig.json
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\BD.dll
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\BD.pdb
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Кирилл\Desktop\BD\BD\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.dll
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\refint\BD.dll
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.pdb
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\ref\BD.dll
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.MainForm.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForm.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.DeleteForm.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddContract.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddDep.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddProduct.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddShop.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddSupper.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddWorker.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateContract.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateDep.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateProduct.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateShop.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateSupper.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateWorker.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.ParamsQuery.resources
+C:\Users\Кирилл\Desktop\BD\BD\obj\Debug\net6.0-windows\BD.csproj.Up2Date
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\BD.exe
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\BD.deps.json
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\BD.runtimeconfig.json
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\BD.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\BD.pdb
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.csproj.AssemblyReference.cache
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForm.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddContract.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddDep.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddProduct.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddShop.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddSupper.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AddForms.AddWorker.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.DeleteForm.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.Form1.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.MainForm.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.ParamsQuery.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateContract.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateDep.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateProduct.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateShop.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateSupper.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.UpdateForms.UpdateWorker.resources
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.csproj.GenerateResource.cache
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AssemblyInfoInputs.cache
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.AssemblyInfo.cs
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.csproj.CoreCompileInputs.cache
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.csproj.Up2Date
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\refint\BD.dll
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.pdb
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\BD.genruntimeconfig.cache
+C:\Архив Миэт\3 курс\Базы данных\BD\BD\obj\Debug\net6.0-windows\ref\BD.dll
